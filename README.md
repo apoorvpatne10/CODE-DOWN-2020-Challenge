@@ -6,6 +6,8 @@ A coding challenge to enhance your learning. <br>
 
 After forking this repo if you want you can remove the content below this. But if it is possible then add your content above it 
 
+An attempt to make a simple music recommendation system using magenta and django. Let's see how it goes.
+
 <hr>
 
 ## OSS DEVELOPMENT GUIDE
