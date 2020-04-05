@@ -4,11 +4,13 @@ A coding challenge to enhance your learning. <br>
  - Our Website : http://www.aitcodedown.in/ <br>
  - Our Blog : http://blog.aitcodedown.in/
 
-After forking this repo if you want you can remove the content below this. But if it is possible then add your content above it 
+After forking this repo if you want you can remove the content below this. But if it is possible then add your content above it
 
 <hr>
 
 An attempt to make a simple music recommendation system using magenta and django. Let's see how it goes.
+
+April 5 : Trying to make sense of spectrograms and how it plays its role in music engineering, audio analysis etc.
 
 <hr>
 
@@ -35,7 +37,7 @@ Happy Coding…..
 
 
 ## Front End Web Technologies :
- 
+
 
 > The best way to learn is by implementing things, so instead of just
 > reading these, do try implementing each of them
@@ -198,7 +200,7 @@ Check youtube channels like for more Django content: CS Dojo, Dennis Ivy, Codemy
 
 
 
-        
+
 
 
 
@@ -227,7 +229,7 @@ And further content and resources will be provided to you later if you really In
 
 	1. MachineHack ([https://www.machinehack.com](https://www.machinehack.com))
 	2. Analytics Vidhya ([https://datahack.analyticsvidhya.com/contest/all/](https://datahack.analyticsvidhya.com/contest/all/))
-	
+
 	  I suggest you participate in a contest that is already completed and then refer to the notebooks who topped in the leaderboard and try to learn from them and implement it in the next contest. Check out their GitHub or The Linkedin profile you must find their notebooks. Even Kaggle notebooks are just perfect to learn new and amazing things and somethings to complicated so beware.
 
 4. **Get started with any competition:** Kaggle would be the best place as there are solution kernels for the problem and try replicating the same. In the start you might not understand everything you implement, then use your googling skills to decode the answer you need and that&#39;s how you&#39;ll learn.
@@ -239,7 +241,7 @@ And further content and resources will be provided to you later if you really In
 
 
 # Few suggestive projects :
-  
+
 
 ## Front End
 
@@ -363,13 +365,13 @@ The goal of this app is pretty simple, to list popular movies with their trailer
 
 
 - [SUDHANSHU JOSHI](https://github.com/SJoshi7)  
-- [KRANTHI KIRAN](https://github.com/kranthik13) 
+- [KRANTHI KIRAN](https://github.com/kranthik13)
 - [ABHILASHA KUMARI](https://github.com/Abhilashak2k)   
 - [ARPIT KUMAR MISHRA](www.github.com/armish24)  
 - [SHAILESH KUMAR SAHU](https://github.com/shellkore)  
 - [PANKAJ YADAV](https://github.com/pankaj443)
-- [SHALINI NEGI](https://github.com/1SilverLining1) 
+- [SHALINI NEGI](https://github.com/1SilverLining1)
 - [SATYA PRAKASH](https://github.com/satya9500)   
 - [AKSHAY SHARMA](https://github.com/AkshaySharma008)  
-- [VIJENDRA CHAUDHARY](https://github.com/vijuc895) 
+- [VIJENDRA CHAUDHARY](https://github.com/vijuc895)
 - [SURYA](https://github.com/surya91521)                    
